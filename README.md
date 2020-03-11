@@ -12,9 +12,9 @@
 
 
 
-1. `Create table city`
+> 1. Create table city
 
-2. `Create table referee`
+2. Create table referee
 
 3. **Create table innings**
 
