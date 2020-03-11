@@ -10,43 +10,43 @@
 
 
 
-1. ***Create table city***
+1. **Create table city**
 
-2. ***Create table referee***
+2. **Create table referee**
 
-3. ***Create table innings***
+3. **Create table innings**
 
-4. ***Create table extra_type***
+4. **Create table extra_type**
 
-5. ***Create table skill***
+5. **Create table skill**
 
-6. ***Create table team***
+6. **Create table team**
 
-7. ***Create table player***
+7. **Create table player**
 
-8. ***Create table venue***
+8. **Create table venue**
 
-9. ***Create table event***
+9. **Create table event**
 
-10. ***Create table extra_event***
+10. **Create table extra_event**
 
-11. ***Create table outcome***
+11. **Create table outcome**
 
-12. ***Create table game***
+12. **Create table game**
 
-13. ***Change column name***
+13. **Change column name**
 
-14. ***Change table name***
+14. **Change table name**
 
-15. ***Delete a column***
+15. **Delete a column**
 
-16. ***Add a new column***
+16. **Add a new column**
 
-17. ***Drop teble city***
+17. **Drop teble city**
 
-18. *** Drop table innings***
+18. **Drop table innings**
 
-19. ***Drop table skill***
+19. **Drop table skill**
 
-20. ***Drop table extra_type***
+20. **Drop table extra_type**
 
